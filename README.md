@@ -30,32 +30,6 @@ A computer vision project built with **TensorFlow** and **Python** for classifyi
 
 ---
 
-## Installation
-
-### Clone the Repository
-
-```bash
-git clone https://github.com/yourusername/dog-vision.git
-cd dog-vision
-```
-
-### Install Dependencies
-
-```bash
-pip install tensorflow numpy pandas scipy matplotlib
-```
-
----
-
-## Running the Project
-
-```bash
-jupyter notebook Dog_vision.ipynb
-```
-
-Or run directly on Google Colab.
-
----
 
 ## Project Workflow
 
@@ -82,13 +56,7 @@ dog-vision/
 ```
 
 ---
-
-## Future Improvements
-
-- Improve classification accuracy  
-- Deploy as a web application  
-- Add real-time image prediction  
-- Use advanced CNN architectures  
+ 
 
 ---
 
@@ -96,4 +64,3 @@ dog-vision/
 
 **Muhammad Abdullah**  
 
-BS Computer Science Student interested in Artificial Intelligence, Machine Learning, and Computer Vision.
